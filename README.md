@@ -5,7 +5,7 @@ I have used currency API which would help in fetching the data from the server
 
 The information fetched from the server , serve as the exchange of currency information between different currencies of the world 
 
-I have used the plateform of REPLIT https://replit.com/ 
+I have used the plateform of REPLIT - https://replit.com/ 
 
 Website link - https://currency-convertor.aryatsrivastava.repl.co/
 
