@@ -7,7 +7,7 @@ The information fetched from the server , serve as the exchange of currency info
 
 I have used the plateform of REPLIT - https://replit.com/ 
 
-Website link - https://currency-convertor.aryatsrivastava.repl.co/
+Website link - https://currenconv.netlify.app/
 
 
 
